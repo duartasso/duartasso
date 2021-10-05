@@ -5,8 +5,6 @@
 <h1> hello < developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://camo.githubusercontent.com/2be06679068309221b85f59c6f03ec40ba4a556f312d42b35e1e5863b1a73626/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d7676317a2e7676317a)
-
 </p>
 <div size='20px'> hi! my name is v1z. welcome to my github profile :smile: 
 </div>
