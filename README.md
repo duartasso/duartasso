@@ -1,7 +1,7 @@
 ```ini
       /\        krypt@github 
      /  \       OS: Windows 10 x64 
-    /\   \      Twitter: @isntv1z 
+    /\   \      Twitter: @imkrypt
    /      \     Skills: C++ and Web development 
   /  |  |  \    Studying: Gaming Hacking 
  /_-''  ''-_\  
