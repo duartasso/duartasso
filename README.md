@@ -1,13 +1,13 @@
 ```ini
-      /\        krypt@github 
-     /  \       OS: Windows 10 x64 
-    /\   \      Twitter: @imkrypt
-   /      \     Skills: C++ and Web development 
-  /  |  |  \    Studying: Gaming Hacking 
+      /\        duarte@github 
+     /  \       OS: Windows 11 x64 
+    /\   \      Twitter: @duartasso
+   /      \     Skills: C++, JS and Web 
+  /  |  |  \    Studying: JS Backend 
  /_-''  ''-_\  
 ```
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imkrypt&show_icons=true&theme=tokyonight&hide_border=true&locale=en" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=duartasso&show_icons=true&theme=tokyonight&hide_border=true&locale=en" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrypt&layout=compact&langs_count=4&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartasso&layout=compact&langs_count=4&theme=tokyonight&hide_border=true" /> </p>
